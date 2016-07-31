@@ -1,0 +1,34 @@
+body { 
+padding-top: 70px;}
+#slogan {
+	font-size: 300%;
+	text-align: center;
+	color: #009900;
+	padding-bottom:10px; 
+
+	
+}
+.row .ten {
+	font-size: 150%;
+	font-weight: bold;
+	font-style: italic; 
+	color: #6633CC;
+
+}
+.row{ padding: 0 15px; }
+
+#chicken{ background-color: #CCCCCC	;
+	
+}
+#beef {background-color:#CCCCCC	;}
+#sushi {background-color:#CCCCCC	; }
+.navbar-brand {
+	font-weight: bold;
+}
+#nav-list{
+	text-align: center;
+	
+}
+#nav-list .ul .il a: hover {
+	background-color: red;
+}
